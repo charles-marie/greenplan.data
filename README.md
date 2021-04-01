@@ -15,4 +15,4 @@ Hope you enjoy our writeup!
 
 #### Warmest,
 #### Charles Loy, Uladzimir Treihis, Andrew Siow, Alex Tai
-#### Yale-NUS College 
+#### Yale-NUS College 2024
