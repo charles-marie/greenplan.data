@@ -5,9 +5,9 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'The SG Green Plan - An Analysis',
+    title: 'SG Green Plan: Ambitious?',
     subtitle: '',
-    byline: 'by Yale-NUS digital storytellers Charles, Andrew, Alex & Lad',
+    byline: 'by Yale-NUS data storytellers Charles, Andrew, Alex & Lad',
     footer: '',
     chapters: [
         {
